@@ -5,7 +5,7 @@ const FoodItems = () =>{
     return(
         <>
          <div className="App">
-    <header className='f-col f-align-center'>
+    <header className='f-col f-a-c'>
 
       <h1 className=''>Food items</h1>
       <p>non veg menus</p>

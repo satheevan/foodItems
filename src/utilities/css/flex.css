@@ -1,0 +1,47 @@
+.f-row {
+  display: flex;
+}
+.f-col {
+  display: flex;
+  flex-direction: column;
+}
+.f-g5 {
+  gap: 5;
+}
+.btn {
+  background-color: #1000ff;
+  border-radius: 5px;
+  min-width: 100px;
+  max-width: 500px;
+  color: white;
+}
+.f-grow {
+  flex-grow: 1;
+}
+.f-j-s {
+  justify-content: start;
+}
+.f-j-c {
+  justify-content: center;
+}
+.f-j-e {
+  justify-content: end;
+}
+.f-j-btwn {
+  justify-content: space-between;
+}
+.f-j-around {
+  justify-content: space-around;
+}
+.f-j-even {
+  justify-content: space-evenly;
+}
+.f-a-s {
+  align-content: start;
+}
+.f-a-c {
+  align-content: center;
+}
+.f-a-e {
+  align-content: end;
+}

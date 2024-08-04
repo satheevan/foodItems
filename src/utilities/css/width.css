@@ -1,0 +1,47 @@
+/* min-width */
+.w-10{
+    min-width:10%;
+}
+.w-20{
+    min-width:20%;
+}
+.w-30{
+    min-width:30%;
+}
+.w-40{
+    min-width:40%;
+}
+.w-50{
+    min-width:50%;
+}
+.w-60{
+    min-width:60%;
+}
+.w-70{
+    min-width:70%;
+}
+.w-80{
+    min-width:80%;
+}
+.w-90{
+    min-width:90%;
+}
+.w-100{
+    min-width:100%;
+}
+/* max-width */
+.w-x-10{
+    max-width:10%;
+}
+.w-x-20{
+    max-width:20%;
+}
+.w-x-30{
+    max-width:30%;
+}
+.w-x-40{
+    max-width:40%;
+}
+.w-x-50{
+    max-width:50%;
+}
